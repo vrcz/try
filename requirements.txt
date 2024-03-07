@@ -3,3 +3,8 @@ pyTelegramBotAPI
 user_agent
 tgcrypto
 pyrogram
+pyromod
+threading
+contextlib
+server
+aiohttp
