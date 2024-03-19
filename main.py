@@ -15,12 +15,12 @@ from server import web_server
 from aiohttp import web
 from pyrogram.types import (ReplyKeyboardMarkup, InlineKeyboardMarkup,
                             InlineKeyboardButton)
-api_id = 18922496
-api_hash = '371d1dc33eccaa19bb0814a27bb98f3c'
-token = '5490492288:AAGLCMOVsmYJolrofALL79xB8is0GDdFKz0'  # vmwbot
-token2 = '5695022956:AAHdCQRIE9aIQIjz1gm2FqT14V1v5ow0FnA'  # lj4bot
+api_id = 28475343
+api_hash = 'cfa1e3915a466b1d2380ce7a77a70ce5'
+token = '6821418800:AAGjh4rtaom8_FiTFSGyyMmngFtU7u-yXpY'  # vmwbot
+token2 = '7147935343:AAGJztcamcVf5ShDG7DXNA6ExrEWWXfoUTs'  # lj4bot
 bot = Client("Bot", bot_token=token, api_hash=api_hash, api_id=api_id)
-dev = 5307018300
+dev = 6451422871
 stats = []
 users = []
 
